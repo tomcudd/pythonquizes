@@ -56,6 +56,7 @@ def quiz():
 #print('Question:\n')
 #answer = randomCalc()
 
+# Return 1 question and answer as a json object
 answer = selectCalc('+')
 
 #print('Answer: {}'.format(answer))
